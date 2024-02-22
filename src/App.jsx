@@ -1,5 +1,5 @@
 import React from "react";
-import AllProduct from "../components/allProduct";
+import AllProduct from "../components/AllProduct";
 import "./App.css";
 import Navigation from "../components/Navigation";
 
