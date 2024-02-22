@@ -4,8 +4,6 @@ import { useGetProductsQuery } from "../api/productApi";
 import { useSelector } from "react-redux";
 import { useNavigate } from "react-router-dom";
 import { useAddToCartMutation } from "../api/cartApi";
-
-// added img
 import img from "../src/assets/white_cart.jpg";
 
 const AllProduct = () => {
